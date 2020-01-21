@@ -66,7 +66,11 @@ int main (int argc, char* argv[]) {
         N=M;
         M=temp;
     }
-    int unos=N*M/2 - stoi(argv[3]);
+    int unos=(N*M + stoi(argv[3]))/2;
+    if((N*M + stoi(argv[3]))%2==1 || unos < 0 || unos > N*M){
+        cout << "Invalid discrepancy!"<<endl;
+        return 0;
+    }
     int stop_at_first = 1;
     if(argc == 5){
         stop_at_first = stoi(argv[4]);
