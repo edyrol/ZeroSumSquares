@@ -1,0 +1,80 @@
+11 x 11 with discrepancy 1
+There were 0 examples with no balanced squares.
+
+11 x 11 with discrepancy 3
+There were 0 examples with no balanced squares.
+
+11 x 11 with discrepancy 5
+There were 0 examples with no balanced squares.
+
+11 x 11 with discrepancy 7
+There were 0 examples with no balanced squares.
+
+11 x 11 with discrepancy 9
+There were 0 examples with no balanced squares.
+
+11 x 11 with discrepancy 11
+This example has no balanced squares:
+O O O O O O O O O O O 
+O O O O O O O O O O X 
+O O O O O O O O O X X 
+O O O O O O O O X X X 
+O O O O O O O X X X X 
+O O O O O O X X X X X 
+O O O O O X X X X X X 
+O O O O X X X X X X X 
+O O O X X X X X X X X 
+O O X X X X X X X X X 
+O X X X X X X X X X X 
+This example has no balanced squares:
+O O O O O O O O O O O 
+X O O O O O O O O O O 
+X X O O O O O O O O O 
+X X X O O O O O O O O 
+X X X X O O O O O O O 
+X X X X X O O O O O O 
+X X X X X X O O O O O 
+X X X X X X X O O O O 
+X X X X X X X X O O O 
+X X X X X X X X X O O 
+X X X X X X X X X X O 
+This example has no balanced squares:
+O X X X X X X X X X X 
+O O X X X X X X X X X 
+O O O X X X X X X X X 
+O O O O X X X X X X X 
+O O O O O X X X X X X 
+O O O O O O X X X X X 
+O O O O O O O X X X X 
+O O O O O O O O X X X 
+O O O O O O O O O X X 
+O O O O O O O O O O X 
+O O O O O O O O O O O 
+This example has no balanced squares:
+X X X X X X X X X X O 
+X X X X X X X X X O O 
+X X X X X X X X O O O 
+X X X X X X X O O O O 
+X X X X X X O O O O O 
+X X X X X O O O O O O 
+X X X X O O O O O O O 
+X X X O O O O O O O O 
+X X O O O O O O O O O 
+X O O O O O O O O O O 
+O O O O O O O O O O O 
+There were 4 examples with no balanced squares.
+
+11 x 11 with discrepancy 13
+There were 0 examples with no balanced squares.
+
+11 x 11 with discrepancy 15
+There were 0 examples with no balanced squares.
+
+11 x 11 with discrepancy 17
+There were 0 examples with no balanced squares.
+
+11 x 11 with discrepancy 19
+There were 0 examples with no balanced squares.
+
+11 x 11 with discrepancy 21
+There were 0 examples with no balanced squares.

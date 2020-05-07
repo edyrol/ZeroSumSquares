@@ -1,0 +1,404 @@
+5 x 5 with discrepancy 1
+There were 0 examples with no balanced squares.
+
+5 x 5 with discrepancy 3
+There were 0 examples with no balanced squares.
+
+5 x 5 with discrepancy 5
+This example has no balanced squares:
+O O O O O 
+O O O O X 
+O O O X X 
+O O X X X 
+O X X X X 
+This example has no balanced squares:
+O O O O O 
+X O O O O 
+X X O O O 
+X X X O O 
+X X X X O 
+This example has no balanced squares:
+O X X X X 
+O O X X X 
+O O O X X 
+O O O O X 
+O O O O O 
+This example has no balanced squares:
+X X X X O 
+X X X O O 
+X X O O O 
+X O O O O 
+O O O O O 
+There were 4 examples with no balanced squares.
+
+5 x 5 with discrepancy 7
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+X O X O X 
+O O O O O 
+X O X O X 
+There was 1 example with no balanced squares.
+
+5 x 5 with discrepancy 9
+This example has no balanced squares:
+O O O X O 
+O O O O O 
+O O O O X 
+X O O X X 
+O O X X X 
+This example has no balanced squares:
+O O X O X 
+O O O O O 
+X O X O X 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+O O X X X 
+X O O X X 
+O O O O X 
+O O O O O 
+O O O X O 
+This example has no balanced squares:
+O X O O O 
+O O O O O 
+X O O O O 
+X X O O X 
+X X X O O 
+This example has no balanced squares:
+X O O O X 
+O O O O O 
+X O X O X 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+X O O X X 
+O O O O X 
+O O O O O 
+X O O O O 
+X X O O X 
+This example has no balanced squares:
+X O X O O 
+O O O O O 
+X O X O X 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+O O X O X 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+X O O O X 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+X O X O O 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+X O X O X 
+O O O O O 
+O O X O X 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+X O X O X 
+O O O O O 
+X O O O X 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+X O X O X 
+O O O O O 
+X O X O O 
+This example has no balanced squares:
+X X O O X 
+X O O O O 
+O O O O O 
+O O O O X 
+X O O X X 
+This example has no balanced squares:
+X X X O O 
+X X O O X 
+X O O O O 
+O O O O O 
+O X O O O 
+There were 15 examples with no balanced squares.
+
+5 x 5 with discrepancy 11
+This example has no balanced squares:
+O O X O X 
+O O O O O 
+X O X O O 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+O O X O X 
+O O O O O 
+X O X O X 
+O O O O O 
+X O O O X 
+This example has no balanced squares:
+X O O O X 
+O O O O O 
+X O X O X 
+O O O O O 
+O O X O X 
+This example has no balanced squares:
+X O O O X 
+O O O O O 
+X O X O X 
+O O O O O 
+X O O O X 
+This example has no balanced squares:
+X O O O X 
+O O O O O 
+X O X O X 
+O O O O O 
+X O X O O 
+This example has no balanced squares:
+X O X O O 
+O O O O O 
+O O X O X 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+X O X O O 
+O O O O O 
+X O X O X 
+O O O O O 
+X O O O X 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+O O X O O 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+O O X O X 
+O O O O O 
+X O X O O 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+X O X O O 
+O O O O O 
+O O X O X 
+There were 10 examples with no balanced squares.
+
+5 x 5 with discrepancy 13
+This example has no balanced squares:
+O O O O O 
+O O O O O 
+O O O O X 
+O O O X X 
+O O X X X 
+This example has no balanced squares:
+O O O O O 
+O O O O O 
+X O O O O 
+X X O O O 
+X X X O O 
+This example has no balanced squares:
+O O O O O 
+O O X O X 
+X O O O O 
+O O O O X 
+X O X O O 
+This example has no balanced squares:
+O O O O O 
+X O X O O 
+O O O O X 
+X O O O O 
+O O X O X 
+This example has no balanced squares:
+O O O O O 
+X O X O X 
+O O O O O 
+X O O O X 
+O O X O O 
+This example has no balanced squares:
+O O O O O 
+X O X O X 
+O O O O O 
+X O X O X 
+O O O O O 
+This example has no balanced squares:
+O O O O X 
+O O O O O 
+O O X O X 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+O O O O X 
+O X O O O 
+O O O O O 
+X O O O O 
+X X O O X 
+This example has no balanced squares:
+O O O X X 
+O X O O X 
+O O O O O 
+O O O O O 
+X O O O X 
+This example has no balanced squares:
+O O X O O 
+O O O O O 
+X O X O X 
+O O O O O 
+O O X O X 
+This example has no balanced squares:
+O O X O O 
+O O O O O 
+X O X O X 
+O O O O O 
+X O X O O 
+This example has no balanced squares:
+O O X O O 
+X O O O X 
+O O O O O 
+X O X O X 
+O O O O O 
+This example has no balanced squares:
+O O X O X 
+O O O O O 
+O X O O X 
+O O O O O 
+O X O X O 
+This example has no balanced squares:
+O O X O X 
+O O O O O 
+X O X O X 
+O O O O O 
+O O X O O 
+This example has no balanced squares:
+O O X O X 
+X O O O O 
+O O O O X 
+X O X O O 
+O O O O O 
+This example has no balanced squares:
+O O X X X 
+O O O X X 
+O O O O X 
+O O O O O 
+O O O O O 
+This example has no balanced squares:
+O X O X O 
+O O O O O 
+O X O O X 
+O O O O O 
+O O X O X 
+This example has no balanced squares:
+O X O X O 
+O O O O O 
+O X O O X 
+O O O O O 
+O X O X O 
+This example has no balanced squares:
+O X O X O 
+O O O O O 
+O X O X O 
+O O O O O 
+O X O X O 
+This example has no balanced squares:
+O X O X O 
+O O O O O 
+X O O X O 
+O O O O O 
+O X O X O 
+This example has no balanced squares:
+O X O X O 
+O O O O O 
+X O O X O 
+O O O O O 
+X O X O O 
+This example has no balanced squares:
+X O O O O 
+O O O O O 
+X O X O O 
+O O O O O 
+X O X O X 
+This example has no balanced squares:
+X O O O O 
+O O O X O 
+O O O O O 
+O O O O X 
+X O O X X 
+This example has no balanced squares:
+X O O O X 
+O O O O O 
+O O O O O 
+O X O O X 
+O O O X X 
+This example has no balanced squares:
+X O O O X 
+O O O O O 
+O O O O O 
+X O O X O 
+X X O O O 
+This example has no balanced squares:
+X O O X X 
+O O O O X 
+O O O O O 
+O O O X O 
+X O O O O 
+This example has no balanced squares:
+X O X O O 
+O O O O O 
+X O O X O 
+O O O O O 
+O X O X O 
+This example has no balanced squares:
+X O X O O 
+O O O O O 
+X O X O X 
+O O O O O 
+O O X O O 
+This example has no balanced squares:
+X O X O O 
+O O O O X 
+X O O O O 
+O O X O X 
+O O O O O 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+O O X O X 
+O O O O O 
+O O O O X 
+This example has no balanced squares:
+X O X O X 
+O O O O O 
+X O X O O 
+O O O O O 
+X O O O O 
+This example has no balanced squares:
+X X O O O 
+X O O X O 
+O O O O O 
+O O O O O 
+X O O O X 
+This example has no balanced squares:
+X X O O X 
+X O O O O 
+O O O O O 
+O X O O O 
+O O O O X 
+This example has no balanced squares:
+X X X O O 
+X X O O O 
+X O O O O 
+O O O O O 
+O O O O O 
+There were 34 examples with no balanced squares.
