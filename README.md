@@ -17,3 +17,5 @@ A zero-sum square is a square *S* with disc(*S*)*=0*.
 This program finds all {-1,1}-colorings of a N by M matrix with discrepancy d and no zero-sum squares.
 
 usage: ./main N M d [stop_at_first]
+
+The results we obtained can be found in text format in the Results folder.
